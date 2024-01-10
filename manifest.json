@@ -1,0 +1,16 @@
+{
+    "name": "即時時鐘（Clock）",
+    "short_name": "時鐘（Clock）",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "一個簡單的即時時鐘應用。（a easy clock PWA）",
+    "icons": [
+      {
+        "src": "192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
